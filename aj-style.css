@@ -1,0 +1,76 @@
+
+*{
+    background-color: maroon;
+    
+}
+body{
+
+    margin:0;
+}
+.page-head{
+    display:flex;
+    justify-content:space-between;
+     padding-top: 25px;
+  
+}
+.main-field{
+    display: flex;
+    justify-content: center;
+      align-items: center;
+}
+.nav-bar a{
+    text-decoration-line: none;
+    margin:9px;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-right: 30px;
+    
+}
+.order{
+    color:black;
+    border-radius: 12px;
+    background-color: orange;
+    border:1px solid maroon;
+    padding: 5px 15px 5px 15px;
+}
+.contact{
+     color:white;
+    border-radius: 12px;
+    background-color: maroon;
+    border: 0.1rem solid white;
+    padding: 5px 15px 5px 15px;
+}
+.special{
+    width:70%;
+      color:white;
+}
+.coffee-paradise{
+    width:58%;
+    color:white;
+}
+.best-coffee {
+    color: orange;
+    font-family: "Miniver", cursive;
+    font-weight: 400;
+  font-style: normal;
+}
+    
+
+.coffeeimgage1{
+    width: 440px;
+    margin-top: 100px;
+}
+.cofee{
+    color:white;
+    font-weight: bolder;
+    margin-left: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    align-items: center;
+   
+}
+.small-cup{
+    width: 30px;
+    margin-right: 3px;
+    
+}
